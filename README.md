@@ -1,6 +1,6 @@
 <img src=https://octodex.github.com/images/welcometocat.png align=right height=250px />
 
-⭐️ Congratulations prakhya-dasari! ⭐️
+⭐️ Congratulations prakhya dasari! ⭐️
 
 You completed this exercise! Nice work! 🥳
 
