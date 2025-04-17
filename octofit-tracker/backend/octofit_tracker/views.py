@@ -7,7 +7,7 @@ from .models import User, Team, Activity, Leaderboard, Workout
 
 @api_view(['GET'])
 def api_root(request, format=None):
-    base_url = 'https://musical-space-waddle-rq57xr6q6w52px4p-8000.app.github.dev/'
+    base_url = 'https://bookish-telegram-qj5vx94j9662xwqq-8000.app.github.dev/'
     return Response({
         'users': base_url + 'api/users/?format=api',
         'teams': base_url + 'api/teams/?format=api',

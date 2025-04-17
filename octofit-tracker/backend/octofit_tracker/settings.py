@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-3=r@^9vuz*1)2*%107%cor5^^ygz)=en1!7lr2e3jv1*@a5$$4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'musical-space-waddle-rq57xr6q6w52px4p-8000.app.github.dev']
+ALLOWED_HOSTS = ['localhost', 'https://bookish-telegram-qj5vx94j9662xwqq-8000.app.github.dev']
 
 
 # Application definition
